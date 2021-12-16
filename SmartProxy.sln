@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieAPI", "MovieAPI\MovieAPI.csproj", "{9A7A205B-01D9-4811-8A6A-1C791B2BB523}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{52233727-01C2-4661-9DE7-EC3C4547EEA4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyncNode", "SyncNode\SyncNode.csproj", "{541270A8-CB2D-46B6-9F1C-D9B43A823DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7A205B-01D9-4811-8A6A-1C791B2BB523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7A205B-01D9-4811-8A6A-1C791B2BB523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7A205B-01D9-4811-8A6A-1C791B2BB523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7A205B-01D9-4811-8A6A-1C791B2BB523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52233727-01C2-4661-9DE7-EC3C4547EEA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52233727-01C2-4661-9DE7-EC3C4547EEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52233727-01C2-4661-9DE7-EC3C4547EEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52233727-01C2-4661-9DE7-EC3C4547EEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541270A8-CB2D-46B6-9F1C-D9B43A823DAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541270A8-CB2D-46B6-9F1C-D9B43A823DAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541270A8-CB2D-46B6-9F1C-D9B43A823DAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541270A8-CB2D-46B6-9F1C-D9B43A823DAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {156A2FCC-F79F-4503-AE93-9404D85EC453}
+	EndGlobalSection
+EndGlobal
