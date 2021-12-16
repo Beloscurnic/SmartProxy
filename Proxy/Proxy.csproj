@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>fe2c77a4-c0f6-470d-8a05-9ec6cee19a0c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Ocelot" Version="16.0.1" />
+    <PackageReference Include="Ocelot.Cache.CacheManager" Version="16.0.1" />
+  </ItemGroup>
+
+</Project>
