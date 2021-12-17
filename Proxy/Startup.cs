@@ -39,7 +39,7 @@ namespace Proxy
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Smart Proxy 2");
+                    await context.Response.WriteAsync("Test 1");
                 });
             });
 
